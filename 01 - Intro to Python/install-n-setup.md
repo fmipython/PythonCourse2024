@@ -73,6 +73,10 @@ python3 --version
 
 И все пак, ако случайно нямате Python, то може да го инсталирате чрез специфичния за дистрибуцията ви package manager. Някои по-популярни примери:
 
+* **Debian/Ubuntu** - `sudo apt install python3`
+* **Fedora** - `sudo dnf install python3`
+* **Arch/Manjaro** - `sudo pacman -S python`
+
 ### macOS
 
 Също както при линукс, проверете дали имате вече `python3` командата, чрез:
