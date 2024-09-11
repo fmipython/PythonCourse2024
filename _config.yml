@@ -1,12 +1,12 @@
-title: Python Course 2023/2024
-author: Alexander Ignatov, Lyuboslav Karev, Karina Hristova, Ivan Luchev
+title: Python Course 2024/2025
+author: Alexander Ignatov, Lyuboslav Karev, Karina Hristova, Alexandr Komarov, Ivan Luchev
 logo: misc/logo.png
 
 execute:
   execute_notebooks: off
   
 repository:
-  url: https://github.com/fmipython/PythonCourse2023
+  url: https://github.com/fmipython/PythonCourse2024
   branch: master
 
 html:
