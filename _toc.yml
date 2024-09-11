@@ -1,0 +1,58 @@
+format: jb-book
+
+root: README
+
+parts:
+- caption: Лекции
+  chapters:
+  - file: "01 - Intro to Python/install-n-setup"
+  - file: "01 - Intro to Python/notebooks"
+  - file: "02 - Variables, types, control flow/02 - Variables, types, control flow"
+  - file: "03 - OOP/03 - OOP"
+  - file: "04 - Functional Programming/04 - Functional Programming"
+  - file: "05 - Data Structures and Oddities/05 - Data Structures and Oddities"
+  - file: "06 - Typing Hints/06 - Typing Hints"
+  - file: "07 - Exceptions Handling/07 - Exceptions Handling"
+  - file: "08 - Files/08 - Files"
+  - file: "09 - Multithreading/09 - Multithreading"
+  - file: "10 - requests/10 - requests"
+  - file: "11 - Git/README"
+  - file: "12 - Modules/13 - Modules"
+  - file: "13 - Clean code/14 - Clean code in Python"
+  - file: "14 - Testing/15 - Testing"
+  - file: "15 - Web programming/16 - Web programming"
+  - file: "16 - Using C code in Python/17 - Using C code in Python"
+  - file: "17 - numpy, pandas, matplotlib/18 - numpy, pandas, matplotlib"
+
+- caption: Упражнения
+  chapters:
+  - file: labs/lab01
+    title: Упражнение 1 (теми 2 & 3)
+  - file: labs/lab02
+    title: Упражнение 2 (тема 4)
+  - file: labs/lab03
+    title: Упражнение 3 (тема 5)
+  - file: labs/lab04
+    title: Упражнение 4 (теми 6, 7 & 8)
+  - file: labs/lab05/README
+    title: Упражнение 5 (теми 9, 10, 11 & 12)
+  - file: labs/lab06
+    title: Упражнение 6 (теми 13 и 14)
+
+- caption: Упражнения (примерни решения)
+  chapters:
+  - file: labs/lab01_solutions
+    title: Упражнение 1
+  - file: labs/lab02_solutions
+    title: Упражнение 2
+  - file: labs/lab03_solutions
+    title: Упражнение 3
+  - file: labs/lab04_solutions
+    title: Упражнение 4
+
+- caption: Проекти
+  chapters:
+  - file: projects
+    title: Указания
+  - file: example_projects
+    title: Проекти от минали години

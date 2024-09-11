@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+{% endblock %}
+
+{% block content %}
+    <h1>This is the home page</h1> 
+    <h2>Hi, {{user}}</h2>
+    <img src="{{ url_for('static', filename='logo.png') }}"/>
+{% endblock %}

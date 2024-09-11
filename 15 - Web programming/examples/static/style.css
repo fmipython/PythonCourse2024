@@ -1,0 +1,14 @@
+#main-content {
+    width: 100%;
+    height: 100vh;
+    background-color: #0D1117;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}

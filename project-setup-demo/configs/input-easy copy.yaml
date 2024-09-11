@@ -1,0 +1,5 @@
+ai_player: false
+
+level:
+  word: SCRIPTING
+  failed_attempts: 8
