@@ -1,12 +1,10 @@
 # Курс "Програмиране с Python" 2023
 
-**TODO: write v3 in misc/logo.png**
-
 Github repository към курса "Програмиране с Python" във ФМИ
 
 email: pythoncoursefmi@gmail.com
 
-**TODO: Add Discord link**
+Discord: [линк](https://discord.gg/HwXcZuvZbq)
 
 ## Провеждане
 **TODO**
