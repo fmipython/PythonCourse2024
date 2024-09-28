@@ -1,4 +1,4 @@
-# Курс "Програмиране с Python" 2023
+# Курс "Програмиране с Python" 2024
 
 ![Logo](misc/logo.png)
 
@@ -9,7 +9,7 @@ email: pythoncoursefmi@gmail.com
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HwXcZuvZbq)
 
 ## Провеждане
-**TODO**
+понеделник и четвъртък 18:00-20:00, зали 325 и 604(ФХФ) съответно.
 
 ### Лекции
 
