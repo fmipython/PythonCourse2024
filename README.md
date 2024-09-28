@@ -42,18 +42,16 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 
 ###  Упражнения
 
-Вместо лекции, на някои дати ще се провеждат специални упражнения, на които ще се решават задачи за текущ контрол. График: **TODO: calendar + points**
+Вместо лекции, на някои дати ще се провеждат специални упражнения, на които ще се решават задачи за текущ контрол. График: **TODO: ще сменяме ли задачите ?**
 
-| № | Дата       | Теми           | Линк                                                                                |
-|---|------------|----------------|-------------------------------------------------------------------------------------|
-|1  | 23.10.2023 | 2, 3           | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab01.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab01_solutions.ipynb)|
-|2  | 2.11.2023  | 4              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab02_solutions.ipynb)|
-|3  | 13.11.2023 | 5              | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03.md),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab03_solutions.ipynb)|
-|4  | 27.11.2023 | 6, 7, 8        | [Задачи](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04.ipynb),[Примерни решения](https://github.com/fmipython/PythonCourse2023/blob/master/labs/lab04_solutions.ipynb)|
-|5  | 14.12.2023 | 9, 10, 11, 12  | [Задачи](https://github.com/fmipython/PythonCourse2023/tree/master/labs/lab05), [Примерни решения]()|
-|6  | 8.1.2024   | 13, 14         | [Задачи](https://github.com/fmipython/PythonCourse2023/tree/master/labs/lab06.md)|
-|7  | 18.1.2024  | 15, 16, 17     | |
-
+| № | Дата       | Теми           | Точки | Линк                                                                               |
+|---|------------|----------------|-------|------------------------------------------------------------------------------------|
+|1  | 21.10.2024 | 2, 3           | 5т    |[Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab01.ipynb)|
+|2  | 31.10.2024 | 4              | 5т    |[Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab02.ipynb)|
+|3  | 11.11.2024 | 5              | 3т    |[Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab03.md)|
+|4  | 28.11.2024 | 6, 7, 8        | 3т    |[Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab04.ipynb)|
+|5  | 16.12.2024 | 9, 10, 11, 12  | 5т    |[Задачи](https://github.com/fmipython/PythonCourse2024/tree/master/labs/lab05)|
+|6  | 09.01.2024 | 13, 14         | 3т    |[Задачи](https://github.com/fmipython/PythonCourse2024/tree/master/labs/lab06.md)|
 
 ### Тестове
 На тези дати ще провеждаме тестовете в курса. Тестовете ще са няколко въпроса, в рамките на няколко минути. Провеждането им ще е в Moodle.
