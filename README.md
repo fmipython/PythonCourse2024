@@ -87,9 +87,6 @@ $$ Оценка = \frac{Упражнения + Презентация + Бону
 Вж. [тук](./projects.md)
 
 # Примерни проекти?
-
-**TODO: add good ones from last year**
-
 Вж. [тук](./example_projects.md)
 
 # Принос
