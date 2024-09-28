@@ -4,14 +4,14 @@
 
 ![Python and a python](assets/pythons.png)
 
-Python е [high-level](https://www.geeksforgeeks.org/difference-between-high-level-and-low-level-languages/) език за програмиране, който е [интерпретируем](https://www.geeksforgeeks.org/difference-between-compiler-and-interpreter/), [динамично-типизиран](https://www.educative.io/answers/what-is-dynamic-typing#) и мултипарадигмен. Синтаксисът му е семпъл и лесен за научаване. Комибнацията от всичко изброено прави Python един мощен език за програмиране.
+Python е [high-level](https://www.geeksforgeeks.org/difference-between-high-level-and-low-level-languages/) език за програмиране, който е [интерпретируем](https://www.geeksforgeeks.org/difference-between-compiler-and-interpreter/), [динамично-типизиран](https://www.educative.io/answers/what-is-dynamic-typing#) и мултипарадигмен. Синтаксисът му е семпъл и лесен за научаване. Има интеграция със С код и библиотеки. Комибнацията от всичко изброено прави Python един мощен език за програмиране.
 
 ### За какво се ползва?
 
-* **Скриптове** (автоматизация, DevOps, системна администрация, клауд услуги, конзолни инструменти, т.н.)
-* **Machine Learning и Data Science** (посредством библиотеки като TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib и т.н.)
+* **Скриптове** (автоматизация, DevOps, системна администрация, data flows & pipelines, инфраструктурни процеси, конзолни инструменти, тестване, т.н.)
+* **Machine Learning / Data Science / AI** (посредством библиотеки като TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib и т.н.)
 * **Уеб сървъри** (бекенд, посредством библиотеки като Django, Flask, FastAPI, т.н.)
-* **Desktop приложения** (по-рядко)
+* **Desktop приложения** (рядко)
 
 ### Версии
 
@@ -23,14 +23,15 @@ Python е [high-level](https://www.geeksforgeeks.org/difference-between-high-lev
 * **3.9** (окт. 2020)
 * **3.10** (окт. 2021)
 * **3.11** (окт. 2022)
-* 3.12 е [планирана](https://peps.python.org/pep-0693/) за окт. 2023г.
+* **3.12** (окт. 2023)
+* 3.13 планирана за окт. 2024
 * 4.0 [може и да няма](https://builtin.com/software-engineering-perspectives/python-4)
 
 ### Какви са минусите на Python?
 
-* **Бавен** - в пъти даже, в сравнение с езици като C/C++ и Java (макар и в 3.11 да са направени подобрения на скоростта)
+* **Бавен** - в пъти даже, в сравнение с езици като C/C++ и Java (макар и в 3.11 да са направени подобрения на скоростта, няма как да се сравнява с по-low-level езици)
 * **Multi-threading-ът е неефективен** - това ще го разберем защо е така  [по-късно в курса](../09%20-%20Multithreading/).
-* **Не е особено подходящ за enterprise системи** - заради типизация, скорост и други причини
+* **Не е особено подходящ за стабилни и скалируеми backend-и** - заради типизация, скорост, конкурентност и други причини
 * **(Почти) не може да се пишат мобилни приложения на него**
 
 ### Какви са плюсовете на Python?
