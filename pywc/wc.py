@@ -6,11 +6,12 @@ empty => all 3
 """
 
 import argparse
-import sys
 
 
 def parse_args() -> tuple[list[str], str]:
-    parser = argparse.ArgumentParser(description="Python implementation of the core-utils wc")
+    parser = argparse.ArgumentParser(
+        description="Python implementation of the core-utils wc"
+    )
     parser.add_argument("-l", "--lines", action="store_true")
     parser.add_argument("-w", "--words", action="store_true")
     parser.add_argument("-c", "--characters", action="store_true")
@@ -37,7 +38,7 @@ def get_words(content):
 
 
 def count_characters(content: list[str]):
-    words = get_words()
+    words = get_words(content)
     characters = [len(word) for word in words]
     return sum(characters)
 
@@ -50,8 +51,7 @@ if __name__ == "__main__":
 
     lines_count = count_lines(lines)
     words_count = count_words(lines)
-
-    characters_count = count_characters()
+    characters_count = count_characters(lines)
 
     if args.lines:
         print(lines_count, end=" ")
@@ -59,5 +59,5 @@ if __name__ == "__main__":
         print(words_count, end=" ")
     if args.characters == "-c":
         print(characters_count, end=" ")
-    if not any(args.lines, args.words, args.characters):
+    if not any((args.lines, args.words, args.characters)):
         print(lines_count, words_count, characters_count)
