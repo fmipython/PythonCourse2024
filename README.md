@@ -50,7 +50,7 @@ JupyterBook "книжка" с всички теми има тук: https://fmipy
 | 2   | 31.10.2024 | 4             | 5т    | [Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab02/lab02.ipynb) |
 | 3   | 11.11.2024 | 5             | 3т    | [Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab03/lab03.md)    |
 | 4   | 28.11.2024 | 6, 7, 8       | 3т    | [Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab04/lab04.ipynb) |
-| 5   | 16.12.2024 | 9, 10, 11, 12 | 5т    | [Задачи](https://youtu.be/ARJ8cAGm6JE?feature=shared&t=63)                                 |
+| 5   | 16.12.2024 | 9, 10, 11, 12 | 5т    | [Задачи](https://github.com/fmipython/PythonCourse2024/blob/master/labs/lab03/lab05.md)    |
 | 6   | 09.01.2024 | 13, 14        | 3т    | [Задачи](https://youtu.be/ARJ8cAGm6JE?feature=shared&t=63)                                 |
 
 ### Тестове
