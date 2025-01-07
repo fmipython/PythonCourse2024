@@ -36,7 +36,7 @@ parts:
     title: Упражнение 4 (теми 6, 7 & 8)
   - file: labs/lab05/README
     title: Упражнение 5 (теми 9, 10, 11 & 12)
-  - file: labs/lab06
+  - file: labs/lab06/README
     title: Упражнение 6 (теми 13 и 14)
 
 - caption: Упражнения (примерни решения)
